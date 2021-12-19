@@ -1,0 +1,8 @@
+[block1]
+full_text= The time is
+command=date 
+interval=1
+background=#E8CFE7
+color=#310E33
+min_width=220
+allign=right
