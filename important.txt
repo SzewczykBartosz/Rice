@@ -1,0 +1,3 @@
+The main colour is color 5
+color 3 for active workspace color 9 for inactive color 8 for inactive window
+the darkest color is color 15
